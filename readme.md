@@ -4,6 +4,8 @@ A simple Tk GUI and helper wrappers that make Mikero’s Windows tools usable on
 
 > Works great on Ubuntu and Pop!\_OS. Uses only system packages, Wine, and the official Mikero installers you run under Wine.
 
+<img width="1394" height="830" alt="image" src="https://github.com/user-attachments/assets/8e455b76-5b16-4e79-a914-071c92edd278" />
+
 ---
 
 ## Why you should care
@@ -19,6 +21,11 @@ A simple Tk GUI and helper wrappers that make Mikero’s Windows tools usable on
 ---
 
 ## What it does (summary)
+
+<img width="1118" height="542" alt="image" src="https://github.com/user-attachments/assets/07b724eb-cb21-4b04-818f-bdf0ed7ac760" />
+<img width="1830" height="727" alt="image" src="https://github.com/user-attachments/assets/1fb4b2f7-6cb1-4008-a5a6-4ef0d8d28aa8" />
+<img width="1843" height="916" alt="image" src="https://github.com/user-attachments/assets/deeff7c6-596f-4f4e-a51e-10d4de583bcb" />
+
 
 * Installs small bash **wrappers** named `cpbo` and `unrap` in `~/.local/bin`.
   These wrappers:
