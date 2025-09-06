@@ -1,0 +1,55 @@
+minScore=0
+avgScore=800
+maxScore=1600
+
+class CfgSounds
+{
+	sounds[] = { };
+};
+
+class CfgRadio
+{
+	sounds[] = { };
+
+	class OWr01
+	{
+		name = "OWr01";
+		sound[] = {"OWr01.ogg", db-10, 1.0};
+		title = $STRM_OWr01;
+	};
+	class OWr02
+	{
+		name = "OWr02";
+		sound[] = {"OWr02.ogg", db-10, 1.0};
+		title = $STRM_OWr02;
+	};
+};
+class CfgSFX
+{
+	sounds[] = {};
+};
+class CfgEnvSounds
+{
+	sounds[] = {};
+};
+
+
+class Weapons
+{
+    class M4
+    {
+        count = 4;
+    };
+};
+
+class Magazines
+{
+    class HandGrenade
+    {
+        count = 10;
+    };
+    class M4
+    {
+        count = 10;
+    };
+};

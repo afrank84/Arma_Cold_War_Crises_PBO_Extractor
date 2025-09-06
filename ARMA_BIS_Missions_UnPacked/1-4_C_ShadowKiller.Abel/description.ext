@@ -1,0 +1,125 @@
+
+onLoadMission=$STRM_S07n40
+
+
+class Weapons
+{
+    class M16
+    {
+        count = 3;
+    };
+    class M4
+    {
+        count = 3;
+    };
+    class M21
+    {
+        count = 1;
+    };
+    
+};
+
+class Magazines
+{
+    class M16
+    {
+        count = 30;
+    };
+    class HandGrenade
+    {
+        count = 30;
+    };
+    class M4
+    {
+        count = 30;
+    };
+    class M21
+    {
+        count = 10;
+    };
+    class HK
+    {
+        count = 30;
+    };
+    class PipeBomb
+    {
+        count = 30;
+    };   
+};
+
+class CfgSounds
+{
+	sounds[] = { };
+	class Intro1
+	{
+		name = "Intro1";
+		sound[] = {"S07r01.ogg", db-40, 1.0};
+		titles[] = 
+		{
+			0, $STRM_S07r01
+		};
+	};
+
+};
+
+class CfgRadio
+{
+	sounds[] = { };
+
+	class S07r01
+	{
+		name = "S07r01";
+		sound[] = {"S07r01.ogg", db-40, 1.0};
+		title = $STRM_S07r01;
+	};
+	class S07r02
+	{
+		name = "S07r02";
+		sound[] = {"S07r02.ogg", db-40, 1.0};
+		title = $STRM_S07r02;
+	};
+	class S07r03
+	{
+		name = "S07r03";
+		sound[] = {"S07r03.ogg", db-40, 1.0};
+		title = $STRM_S07r03;
+	};
+	class S07r04
+	{
+		name = "S07r04";
+		sound[] = {"S07r04.ogg", db-40, 1.0};
+		title = $STRM_S07r04;
+	};
+	class S07r05
+	{
+		name = "S07r05";
+		sound[] = {"S07r05.ogg", db-40, 1.0};
+		title = $STRM_S07r05;
+	};
+	class S07r06
+	{
+		name = "S07r06";
+		sound[] = {"S07r06.ogg", db-40, 1.0};
+		title = $STRM_S07r06;
+	};
+	class S07r07
+	{
+		name = "S07r07";
+		sound[] = {"S07r07.ogg", db-40, 1.0};
+		title = $STRM_S07r07;
+	};
+	class S07r08
+	{
+		name = "S07r08";
+		sound[] = {"S07r08.ogg", db-40, 1.0};
+		title = $STRM_S07r08;
+	};
+};
+class CfgSFX
+{
+	sounds[] = {};
+};
+class CfgEnvSounds
+{
+	sounds[] = {};
+};

@@ -1,0 +1,15 @@
+LANGUAGE,English,French,Italian,Spanish,German, Czech, Comment
+
+
+, ---------- VOICES ------------,,,,,
+
+STRM_DAr01,CONVOY DESTROYED. LET'S GET OUT OF HERE.,CONVOI DETRUIT. FICHONS LE CAMP D'ICI.,AUTOCOLONNA DISTRUTTA. ANDIAMOCENE DA QUI.,EL CONVOY HA SIDO DESTRUIDO. MARCHÉMONOS DE AQUÍ.,KONVOI ZERSTÖRT. NICHTS WIE WEG HIER., "Skvìlý, je po konvoji. Padáme odsud." ,Guerrila leader
+STRM_DAr02,"DAMMIT, THE CONVOY'S GOT AWAY. LET'S GET OUT OF HERE.","NOM DE DIEU, LE CONVOI EST PARTI. FICHONS LE CAMP D'ICI.","MALEDIZIONE, IL CONVOGLIO SI È ALLONTANATO. ANDIAMOCENE DA QUI.",¡MALDITA SEA! EL CONVOY HA LOGRADO ESCAPAR. MARCHÉMONOS DE AQUÍ.,"MIST, DER KONVOI IST ENTKOMMEN. NICHTS WIE WEG HIER.", "Sakra, konvoj ujel. Dobøe, aspoò že žijeme. Padáme odsud!",Guerrila leader
+,,,,,,
+,,,,,,
+, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------,
+,,,,,,
+STRM_DAn03,Deep in the desert,En plein désert,Nel cuore del deserto,En pleno desierto,Tief in der Wüste., Hluboko v poušti, Title only
+STRM_DAn04,Airfield,Terrain d'aviation,Campo d'aviazione,Campo de aviación,Flugfeld, Letištì, Marker,,,,
+
+,,,,,,

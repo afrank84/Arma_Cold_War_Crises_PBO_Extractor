@@ -1,0 +1,15 @@
+spez1 action ["TOUCHOFF"]
+~3
+spez2 action ["TOUCHOFF"]
+~1
+spez3 action ["TOUCHOFF"]
+
+spez1 setcombatmode "red"
+spez2 setcombatmode "red"
+spez3 setcombatmode "red"
+
+
+~2
+spez1 move [8735.773,3833.457,0.002]
+spez2 move [8735.773,3833.457,0.002]
+spez3 move [8735.773,3833.457,0.002]

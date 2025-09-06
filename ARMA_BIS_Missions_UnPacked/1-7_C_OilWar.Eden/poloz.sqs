@@ -1,0 +1,13 @@
+spez1 fire ["PUT","PIPEBOMB"]
+spez2 fire ["PUT","PIPEBOMB"]
+spez3 fire ["PUT","PIPEBOMB"]
+~3
+
+spez1 setcombatmode "blue"
+spez2 setcombatmode "blue"
+spez3 setcombatmode "blue"
+
+spez1 setpos [8698.921,3682.917,-0.007]
+spez2 setpos [8696.921,3682.917,-0.007]
+spez3 setpos [8694.921,3682.917,-0.007]
+

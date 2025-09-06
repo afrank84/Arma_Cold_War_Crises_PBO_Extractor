@@ -1,0 +1,20 @@
+LANGUAGE,English,French,Italian,Spanish,German,Czech
+
+, ---------- VOICES ------------,,,,,
+
+STRM_OWr01,"LISTEN UP, MEN. THE CONVOY'S NOT GOING TO MAKE IT. PROCEED TO THE PRIMARY OBJECTIVE. OUT.","ECOUTEZ. LE CONVOI NE VA PAS S'EN SORTIR. PASSEZ A L'OBJECTIF PRINCIPAL. TERMINE.","APRITE LE ORECCHIE, RAGAZZI. L'AUTOCOLONNA NON CE LA FARÀ. PROCEDETE CON L'OBIETTIVO PRIMARIO. CHIUDO.","ATENCIÓN, MUCHACHOS. EL CONVOY NO SE VA A SALIR CON LA SUYA. DIRÍJANSE AL OBJETIVO PRINCIPAL. CORTO Y CIERRO.","HÖRT MIR ZU, MÄNNER. DER KONVOI WIRD'S NICHT SCHAFFEN. WEITER ZUM HAUPTZIEL. ENDE.","FAJN CHLAPI, Z KONVOJE JE ŠROT. POKRAÈUJEME PODLE PLÁNU."
+STRM_OWr02,"WE MUST HOLD THIS PLACE. ENEMY REINFORCEMENTS ARE ON THE WAY.","NOUS DEVONS DEFENDRE CETTE ZONE. LES RENFORTS ENNEMIS SONT EN ROUTE.","DOBBIAMO ASSOLUTAMENTE DIFENDERE QUESTO POSTO. I RINFORZI DEL NEMICO SONO PER STRADA.","TENEMOS QUE DEFENDER ESTE LUGAR. LOS REFUERZOS ENEMIGOS ESTÁN EN CAMINO.","WIR MÜSSEN DIESE STELLUNG HALTEN. VERSTÄRKUNG DES GEGNERS IST UNTERWEGS.","MUSÍME TO TADY UDRŽET, NEPØÁTELSKÉ POSILY UŽ JSOU NA CESTÌ."
+,,,,,,
+,,,,,,
+, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------, ---------- Titles only ------------,
+,,,,,,
+STRM_name,Oil War (1-7 C),La guerre du pétrole (1-7 C),Guerra del petrolio (1-7 C),Guerra del combustible (1-7 C),Ölkrieg (1-7 C), Válka o naftu (1-7 C)
+STRM_start,Insertion point,Point d'insertion,Punto di inserimento,Punto de inserción,Ausgangspunkt,Poèáteèní pozice
+STRM_skrz,Halted convoy,Convoi arrêté,Autocolonna ferma,Convoy detenido,Angehaltener Konvoi, Zastavený konvoj
+STRM_oil,Oil supply camp,Camp de ravitaillement en pétrole,Campo di rifornimento petrolio,Campamento con reservas de combustible,Öllager,Tábor s naftou
+STRM_danger,Danger! Russian training area,Danger ! Zone d'entraînement russe,Pericolo! Area di addestramento russa,¡Peligro! Zona de instrucción rusa,Gefahr! Russisches Übungsgelände,Pozor! Ruská výcviková zóna
+,,,,,,
+STRM_end1,We hold the camp.\n Good work!,Nous contrôlons le camps.\n Bon travail !,Siamo riusciti a difendere il campo.\n Ottimo lavoro!,Hemos logrado defender el campamento.\nBien hecho.,Wir halten das Lager.\n Gute Arbeit!,Udrželi jsme tábor. \n Dobrá práce.
+STRM_end2,The oil camp is destroyed!\n Mission failed,Le camp est détruit !\n Echec de la mission,Il campo di rifornimento è stato distrutto!\n Missione fallita,El campamento con reservas de combustible ha sido destruido.\nMisión fallida.,Das Öllager ist zerstört!\n Einsatz gescheitert,Tábor s naftou je znièen! \n Mise neúspìšná.
+STRM_end3,"After intense fighting, the camp is clear.\n Great work!","Après un combat acharné, le camp est nettoyé.\n Excellent travail !","Dopo un'intensa battaglia, il campo è stato liberato.\n Magnifico!","Tras una intensa lucha, el campamento está despejado.\nUn trabajo excelente.",Nach schwerem Gefecht ist das Lager befreit.\n Gute Arbeit!,Po prudkých bojích je tábor èistý. \n Dobrá práce.
+,,,,,,

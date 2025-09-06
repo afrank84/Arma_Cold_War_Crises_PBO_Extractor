@@ -1,0 +1,20 @@
+LANGUAGE,English,French,Italian,Spanish,German, Comment
+
+STR_NAME_T02, Clean Sweep (1-6 C), Le grand nettoyage (1-6 C), Piazza pulita (1-6 C), Op. Aniquilar (1-6 C), Ausfegen (1-6 C), Mission name
+
+
+--------- Titles -------,,,,,,
+
+STR_END_1,Mission completed,Mission accomplie,Missione compiuta,Misión cumplida.,Einsatz abgeschlossen, AfterMission
+STR_END_2,Completed,Terminé,Compiuto,Cumplida,Abgeschlossen, AfterMission
+
+STR_S06n10,Insertion point,Point d'insertion,Punto di inserimento,Punto de inserción,Ausgangspunkt, Marker
+STR_S06n11,Seize the city,Prendre le contrôle de la ville,Occupare la città,Ocupe la ciudad,Die Stadt besetzen, Marker
+
+STR_MPW_BASE_EAST,Base - East,Base - Est,Base - Oriente,Base del bando este,Stützpunkt - Osten
+STR_MPW_ENEMY_ARMORED, Enemy armored post, Poste ennemi blindé, Postazione corazzata nemica, Puesto armado enemigo, Gegnerische Panzerstellung
+STRS_001, Reinforcement, Renfort, Rinforzi, Refuerzos, Unterstützung ,Marker,
+STRS_002, Ural, Ural, Ural, Ural, Ural
+STRS_003a,Patrol 1, Patrouille 1, Pattuglia 1, Patrulla 1, Patrouille 1,
+STRS_003b,Patrol 2, Patrouille 2, Pattuglia 2, Patrulla 2, Patrouille 2,
+STRS_003c,Patrol - Destination, Patrouille - Destination, Pattuglia - Destinazione, Patrulla - Destino, Patrouille - Ziel,

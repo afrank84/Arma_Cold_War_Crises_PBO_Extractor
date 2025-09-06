@@ -1,0 +1,25 @@
+class CfgRadio
+{
+	sounds[] = {STRM_DAr01.ogg,STRM_DAr02.ogg};
+
+	class STRM_DAr01
+	{
+		name = "STRM_DAr01";
+		sound[] = {"strm_dar01.ogg", db-40, 1.0};
+		title = $STRM_DAr01;
+	};
+	class STRM_DAr02
+	{
+		name = "STRM_DAr02";
+		sound[] = {"strm_dar02.ogg", db-40, 1.0};
+		title = $STRM_DAr02;
+	};
+};
+class CfgSFX
+{
+	sounds[] = {};
+};
+class CfgEnvSounds
+{
+	sounds[] = {};
+};
